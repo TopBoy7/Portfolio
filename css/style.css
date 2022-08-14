@@ -525,6 +525,11 @@ p {
 }
 
 /* contact */
+#contact .contact .section-title {
+   margin-right: 28px;
+   margin-left: 28px;
+}
+
 #contact .contact p {
   color: #000;
   text-align: center;
