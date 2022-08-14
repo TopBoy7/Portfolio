@@ -651,13 +651,22 @@ padding-right: 20px;
     font-weight: 500;
   }
 }
-
+/* Media Query For Tablet */
+@media only screen and (min-width: 320px) {
+       #contact {
+             width: 300px;
+         }
+         }
 
 /* Media Query For Tablet */
 @media only screen and (min-width: 768px) {
-  body {
-    overflow-x: hidden;
-  }
+	
+       #contact {
+              width: 630px;
+         }
+        body {
+              overflow-x: hidden;
+        }
 
 	.cta {
 		font-size: 2.5rem;
@@ -769,9 +778,13 @@ padding-right: 20px;
 
 /* Media Query For Desktop */
 @media only screen and (min-width: 1200px) {
-  body {
-    overflow-x: hidden;
-  }
+	#contact {
+              width: 1150px;
+       }
+	
+        body {
+              overflow-x: hidden;
+       }
 
 	#header .hamburger {
 		display: none;
