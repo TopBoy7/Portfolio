@@ -753,7 +753,12 @@ padding-right: 20px;
 		text-align: left;
 		padding-left: 20px;
 	}
-
+	
+	#about .col-right p {
+	text-align: left;
+	}
+	
+	
 }
 
 
@@ -786,5 +791,9 @@ padding-right: 20px;
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
 		margin: 1.5%;
+	}
+	
+	#about .col-right p {
+	text-align: left;
 	}
 }
