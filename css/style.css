@@ -654,7 +654,7 @@ padding-right: 20px;
 /* Media Query For phone */
 @media only screen and (min-width: 320px) {
        #contact {
-	     margin-left: 40px;
+	     margin-left: 20px;
              width: 240px;
          }
          }
