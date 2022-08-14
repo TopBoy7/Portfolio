@@ -539,6 +539,10 @@ p {
   border-radius: 10px
 }
 
+.mobile-pad {
+  padding: 10px;
+}
+
 #contact  {
 	text-align: center;
   height: 394px;
