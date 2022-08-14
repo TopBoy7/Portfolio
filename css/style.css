@@ -781,7 +781,7 @@ padding-right: 20px;
 /* Media Query For Desktop */
 @media only screen and (min-width: 1200px) {
 	#contact {
-	      margin-left: 159px;
+	      margin-left: 105px;
               width: 1150px;
        }
 	
