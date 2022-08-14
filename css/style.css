@@ -525,6 +525,7 @@ p {
 /* contact */
 #contact .contact p {
   color: #000;
+  text-align: center;
 }
 
 #contact .contact {
