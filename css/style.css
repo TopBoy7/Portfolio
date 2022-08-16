@@ -42,26 +42,7 @@ a {
   margin-bottom: 100px;
 }
 
-#projects .container {
-  min-height: 80vh;
-}
 
-#services .container {
-  min-height: 80vh;
-}
-
-#services .container {
-  padding-bottom: 0px;
-}
-
-#projects .container {
-  min-height: 25vh;
-}
-
-#projects .projects .container {
-  margin-top: 0px;
-  margin-bottom: 44px;
-}
 
 img {
   height: 100%;
@@ -443,7 +424,6 @@ p {
     width: 80%;
     overflow: hidden;
     border-radius: 10px;
-    margin-bottom: 10px
   }
 
 #projects .project-info {
