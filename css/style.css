@@ -714,6 +714,7 @@ p {
     margin: 0;
     width: 100%;
     border-radius: 0;
+    margin-bottom: 80px;
   }
 
   #projects .all-projects .project-info {
@@ -833,4 +834,9 @@ p {
   #about .col-right p {
     text-align: left;
   }
+  
+  #projects .project-item {
+    margin-bottom: 80px;
+  }
+  
 }
