@@ -753,6 +753,10 @@ p {
     text-align: left;
   }
 
+  #about .container {
+    min-height: 0vh;
+  }
+
   /* contact  */
   #contact .contact {
     flex-direction: column;
@@ -834,9 +838,13 @@ p {
   #about .col-right p {
     text-align: left;
   }
-  
+
   #projects .project-item {
     margin-bottom: 80px;
   }
-  
+
+  #about .container {
+    min-height: 0vh;
+  }
+
 }
