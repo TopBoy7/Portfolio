@@ -755,6 +755,7 @@ p {
 
   #about .container {
     min-height: 0vh;
+    padding-bottom: 80px;
   }
 
   /* contact  */
@@ -845,6 +846,7 @@ p {
 
   #about .container {
     min-height: 0vh;
+    padding-bottom: 80px;
   }
 
 }
