@@ -491,6 +491,10 @@ p {
   margin-bottom: 80px;
 }
 
+#slider4 {
+  max-width: 80%;
+}
+
 /* about me */
 #about .about {
   flex-direction: column-reverse;
