@@ -154,11 +154,13 @@ p {
   margin-top: 30px;
   transition: 0.3s ease;
   transition-property: background-color, color;
+  text-decoration: none;
 }
 
 .cta:hover {
   color: #000;
   background-color: var(--primary-color);
+  text-decoration: none;
 }
 
 .brand h1 {
