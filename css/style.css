@@ -505,6 +505,11 @@ carousel-indicators li {
 
 .carousel .carousel-indicators li.active {background-color: var(--primary-color)}
 
+.carousel {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
 /* about me */
 #about .about {
   flex-direction: column-reverse;
@@ -731,7 +736,7 @@ carousel-indicators li {
     height: 400px;
     margin: 0;
     width: 100%;
-    border-radius: 0;
+    border-radius: 10px;
     margin-bottom: 80px;
   }
 
@@ -864,6 +869,7 @@ carousel-indicators li {
 
   #projects .project-item {
     margin-bottom: 80px;
+    border-radius: 10px;
   }
 
   #about .container {
