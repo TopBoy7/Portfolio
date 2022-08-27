@@ -505,6 +505,11 @@ carousel-indicators li {
 
 .carousel .carousel-indicators li.active {background-color: var(--primary-color)}
 
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: var(--primary-color);
+}
+
 .carousel {
   border-radius: 10px;
   overflow: hidden;
