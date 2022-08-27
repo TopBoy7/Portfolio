@@ -507,7 +507,7 @@ carousel-indicators li {
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
-  background-color: var(--primary-color);
+ color: var(--primary-color);
 }
 
 .carousel {
