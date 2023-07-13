@@ -861,6 +861,13 @@ carousel-indicators li {
   #header .nav-list ul a:after {
     display: none;
   }
+  p {
+    2rem;
+  }
+
+  #services .service-top p {
+    font-size: 2rem;
+  }
 
   #services .service-bottom .service-item {
     flex-basis: 30%;
